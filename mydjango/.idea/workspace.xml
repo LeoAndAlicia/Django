@@ -83,8 +83,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="418" />
-    <option name="y" value="26" />
+    <option name="x" value="848" />
+    <option name="y" value="57" />
     <option name="width" value="1380" />
     <option name="height" value="1000" />
   </component>
@@ -119,6 +119,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
