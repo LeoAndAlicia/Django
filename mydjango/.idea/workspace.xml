@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1be5a6a9-1671-4322-866b-fcc3399d37c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mydjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mydjango/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mydjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mydjango/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mydjango/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="898">
-              <caret line="123" column="48" lean-forward="true" selection-start-line="123" selection-start-column="48" selection-end-line="123" selection-end-column="48" />
+            <state relative-caret-position="271">
+              <caret line="123" column="46" lean-forward="true" selection-start-line="123" selection-start-column="46" selection-end-line="123" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -79,15 +76,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/blog/views.py" />
-        <option value="$PROJECT_DIR$/mydjango/settings.py" />
         <option value="$PROJECT_DIR$/mydjango/urls.py" />
         <option value="$PROJECT_DIR$/blog/urls.py" />
+        <option value="$PROJECT_DIR$/mydjango/settings.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="682" />
-    <option name="y" value="7" />
+    <option name="x" value="418" />
+    <option name="y" value="26" />
     <option name="width" value="1380" />
     <option name="height" value="1000" />
   </component>
@@ -174,15 +171,16 @@
       <option name="presentableId" value="Default" />
       <updated>1552922908916</updated>
       <workItem from="1552922911790" duration="1121000" />
-      <workItem from="1552987595535" duration="2662000" />
+      <workItem from="1552987595535" duration="2796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3783000" />
+    <option name="totallyTimeSpent" value="3917000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="425" y="41" width="1104" height="800" extended-state="1" />
+    <frame x="335" y="21" width="1104" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36137667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -244,8 +242,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mydjango/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="898">
-          <caret line="123" column="48" lean-forward="true" selection-start-line="123" selection-start-column="48" selection-end-line="123" selection-end-column="48" />
+        <state relative-caret-position="271">
+          <caret line="123" column="46" lean-forward="true" selection-start-line="123" selection-start-column="46" selection-end-line="123" selection-end-column="46" />
         </state>
       </provider>
     </entry>
